@@ -40,7 +40,7 @@ AI empowers humans to make informed decisions, bridging the gap between complex 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/PhishGuard.git
+   git clone https://github.com/velocityraptor7085/HackNova-MiniHackathon.git
    ```
 2. Install dependencies:
   ```bash
