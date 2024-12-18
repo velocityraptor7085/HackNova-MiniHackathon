@@ -44,7 +44,7 @@ AI empowers humans to make informed decisions, bridging the gap between complex 
    ```
 2. Install dependencies:
   ```bash
-  pip install -r requirements.txt
+  pip install -r phishing-detector-requirements.txt
   ```
 3. Run the app:
   ```bash
