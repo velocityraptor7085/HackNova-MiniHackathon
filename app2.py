@@ -224,7 +224,7 @@ def index():
     """
     Render the main index page
     """
-    return render_template('index.html')
+    return render_template('index2.html')
 
 @app.route('/analyze', methods=['POST'])
 def analyze_url():
